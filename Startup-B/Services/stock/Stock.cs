@@ -44,7 +44,7 @@ namespace Startup_B.Services.stock
                     }
 
 
-
+                    // add
                     /*while (reader.Read())
                     {
                         if (reader.GetValue(0) != null && reader.GetValue(1) != null && reader.GetValue(2) != null)
